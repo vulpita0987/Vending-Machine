@@ -1,0 +1,125 @@
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Properties.Resources.resources
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+C:\Users\30043859\Desktop\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Today (2)\Today\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\VendingMachineProject\Today (2)\Best\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Properties.Resources.resources
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+D:\Uni\year 2\EventDriven\Assignment 1\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll

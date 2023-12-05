@@ -1,0 +1,136 @@
+
+21 October 2022 14:09:55
+ 
+Order 1
+ 
+Fanta * 1
+Walkers * 1
+Haribo * 4
+Quavers * 5
+Total: £22.00
+Change: £18.00
+ 
+21 October 2022 17:03:10
+Order 1
+ 
+Haribo * 3
+Walkers * 2
+Total: £10.50
+Change: £9.50
+ 
+21 October 2022 17:04:19
+Order 1
+ 
+Fanta * 4
+Total: £12.00
+Change: £8.00
+ 
+Order 2
+ 
+CocaCola * 7
+Fanta * 3
+Total: £30.00
+Change: £10.00
+ 
+22 October 2022 12:46:29
+Order 1
+ 
+Fanta * 1
+Total: £3.00
+Change: £17.00
+ 
+22 October 2022 13:42:17
+Order 1
+ 
+Fanta * 2
+Total: £6.00
+Change: £14.00
+ 
+22 October 2022 14:12:24
+Order 1
+ 
+Walkers * 3
+Quavers * 1
+Skittles * 5
+Total: £21.00
+Change: £19.00
+ 
+25 October 2022 18:22:06
+Order 1
+ 
+Walkers * 1
+Haribo * 1
+Skittles * 1
+Quavers * 1
+CocaCola * 1
+Fanta * 1
+Total: £14.50
+Change: £5.50
+ 
+25 October 2022 18:26:45
+Order 1
+ 
+Haribo * 7
+Total: £17.50
+Change: £2.50
+ 
+25 October 2022 19:10:40
+Order 1
+ 
+Walkers * 7
+Total: £10.50
+Change: £9.50
+ 
+26 October 2022 20:39:57
+Order 1
+ 
+Quavers * 6
+Haribo * 8
+Walkers * 7
+Skittles * 2
+Total: £36.00
+Change: £5.00
+ 
+27 October 2022 13:45:51
+Order 1
+ 
+Haribo * 1
+Total: £2.50
+Change: £17.50
+ 
+27 October 2022 16:22:43
+Order 1
+ 
+Fanta * 1
+CocaCola * 1
+Walkers * 3
+Quavers * 4
+Haribo * 15
+Total: £54.00
+Change: £6.00
+ 
+01 November 2022 16:51:56
+Order 1
+ 
+Haribo * 5
+Total: £12.50
+Change: £7.50
+ 
+01 November 2022 16:53:03
+Order 1
+ 
+Walkers * 3
+CocaCola * 3
+Fanta * 2
+Quavers * 2
+Haribo * 5
+Total: £35.00
+Change: £5.00
+ 
+05 December 2023 16:20:56
+Order 1
+ 
+Haribo * 3
+Total: £7.50
+Change: £2.50
+ 
